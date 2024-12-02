@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Volleyball Referee</string>
+    <string name="app_name">Referto CSI</string>
 
     <!-- General actions -->
     <string name="yes">Si</string>
@@ -45,7 +45,7 @@
     <string name="user_lost_password">Password dimenticata?</string>
     <string name="user_sign_out">Disconnettersi</string>
     <string name="user_sign_in_why_title">Perché connettersi?</string>
-    <string name="user_sign_in_why_message"> I vostri dati Volleyball Referee (partite, squadre, regole, categorie, colleghi) saranno sincronizzate con il nostro server. Se vi connettete, noi sapremo chi siete e associeremo i vostri dati al vostro profilo.</string>
+    <string name="user_sign_in_why_message"> I vostri dati su Referto CSI (partite, squadre, regole, categorie, colleghi) saranno sincronizzate con il nostro server. Se vi connettete, sapremo chi siete e assoceremo i vostri dati al vostro profilo.</string>
     <string name="user_pseudo_hint">Pseudonimo d\'arbitro</string>
     <string name="user_email_hint">Email</string>
     <string name="user_confirm_email_hint">Conferma email</string>
